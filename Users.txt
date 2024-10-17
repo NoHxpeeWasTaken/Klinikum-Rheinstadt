@@ -1,9 +1,14 @@
 Dienstnummer: [KH-001]
 Name: Till Kowalski
 username: admin
-password: e3afed0047b08059d0fada10f400c1e5
+password: 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
 
 Dienstnummer: [KH-002]
 Name: Max Mustermann
 username: user1
-password: 5f4dcc3b5aa765d61d8327deb882cf99
+password: 5e884898da28047151d0e56f8dc62927
+
+Dienstnummer: [KH-003]
+Name: Anna Schmidt
+username: arzt1
+password: 7c6a180b36896a0a8c02787eeafb0e4c
